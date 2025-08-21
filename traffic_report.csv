@@ -1,0 +1,32 @@
+Image,Vehicle_Count,Density,Traffic_Pattern,Light_Instruction
+WhatsApp Image 2025-03-19 at 16.01.28_10fc737f.jpg,81,7.436104582843714e-05,Low Traffic - Short Green Light,Green Light Time: 30 seconds
+WhatsApp Image 2025-03-19 at 16.01.28_6c2e7d17.jpg,88,7.733408323959504e-05,Low Traffic - Short Green Light,Green Light Time: 30 seconds
+WhatsApp Image 2025-03-21 at 10.57.03_956796f4.jpg,25,3.7139707695644556e-05,Low Traffic - Short Green Light,Green Light Time: 30 seconds
+WhatsApp Image 2025-03-21 at 10.57.04_640fb5d1.jpg,22,0.0001317365269461078,Medium Traffic - Normal Cycle,Green Light Time: 60 seconds
+WhatsApp Image 2025-03-21 at 10.57.06_4f8939b5.jpg,71,9.028116861979167e-05,Low Traffic - Short Green Light,Green Light Time: 30 seconds
+WhatsApp Image 2025-03-21 at 10.57.08_51c690f6.jpg,77,0.00028714200477326967,High Traffic - Extend Green Light,Green Light Time: 90 seconds
+WhatsApp Image 2025-03-21 at 10.57.10_01651302.jpg,44,6.29732835844393e-05,Low Traffic - Short Green Light,Green Light Time: 30 seconds
+WhatsApp Image 2025-03-21 at 10.57.12_10bcb689.jpg,23,0.00013813813813813813,Medium Traffic - Normal Cycle,Green Light Time: 60 seconds
+WhatsApp Image 2025-03-21 at 10.57.32_daa382af.jpg,63,0.00016021728515625,Medium Traffic - Normal Cycle,Green Light Time: 60 seconds
+WhatsApp Image 2025-03-21 at 10.59.03_667e991d.jpg,52,0.00014870058565153734,Medium Traffic - Normal Cycle,Green Light Time: 60 seconds
+WhatsApp Image 2025-03-21 at 10.59.05_22c5dd00.jpg,34,4.3233235677083336e-05,Low Traffic - Short Green Light,Green Light Time: 30 seconds
+WhatsApp Image 2025-03-21 at 11.01.39_69225c06.jpg,64,8.138020833333333e-05,Low Traffic - Short Green Light,Green Light Time: 30 seconds
+WhatsApp Image 2025-03-21 at 11.01.39_ac147cc0.jpg,66,9.436767935578331e-05,Low Traffic - Short Green Light,Green Light Time: 30 seconds
+WhatsApp Image 2025-03-21 at 11.01.40_19dee39f.jpg,90,0.0001286831991215227,Medium Traffic - Normal Cycle,Green Light Time: 60 seconds
+WhatsApp Image 2025-03-21 at 11.01.40_51d09602.jpg,87,0.000110626220703125,Medium Traffic - Normal Cycle,Green Light Time: 60 seconds
+WhatsApp Image 2025-03-21 at 11.01.40_c1efce52.jpg,36,4.5955882352941176e-05,Low Traffic - Short Green Light,Green Light Time: 30 seconds
+WhatsApp Image 2025-03-21 at 11.01.41_b4467d55.jpg,79,0.00021489815459610026,High Traffic - Extend Green Light,Green Light Time: 90 seconds
+WhatsApp Image 2025-03-21 at 11.01.41_dc7862f5.jpg,96,0.0001220703125,Medium Traffic - Normal Cycle,Green Light Time: 60 seconds
+detected_traffic_density1.jpg,76,6.678852643419571e-05,Low Traffic - Short Green Light,Green Light Time: 30 seconds
+detected_traffic_density2.jpg,53,4.8655992949471216e-05,Low Traffic - Short Green Light,Green Light Time: 30 seconds
+merged_bounding_box.jpg,93,8.172806524184476e-05,Low Traffic - Short Green Light,Green Light Time: 30 seconds
+original (1).jpg,50,0.000117234393757503,Medium Traffic - Normal Cycle,Green Light Time: 60 seconds
+original (10).jpg,85,0.00010850694444444444,Medium Traffic - Normal Cycle,Green Light Time: 60 seconds
+original (2).jpg,11,3.580729166666667e-05,Low Traffic - Short Green Light,Green Light Time: 30 seconds
+original (4).jpg,24,3.4315519765739386e-05,Low Traffic - Short Green Light,Green Light Time: 30 seconds
+original (6).jpg,31,3.9418538411458336e-05,Low Traffic - Short Green Light,Green Light Time: 30 seconds
+original (7).jpg,98,0.00012510212418300653,Medium Traffic - Normal Cycle,Green Light Time: 60 seconds
+original (8).jpg,25,9.148126463700235e-05,Low Traffic - Short Green Light,Green Light Time: 30 seconds
+original (9).jpg,44,0.00023466666666666666,High Traffic - Extend Green Light,Green Light Time: 90 seconds
+traffic_density1.jpg,48,4.2182227221597295e-05,Low Traffic - Short Green Light,Green Light Time: 30 seconds
+traffic_density2.jpg,13,1.193448883666275e-05,Low Traffic - Short Green Light,Green Light Time: 30 seconds
